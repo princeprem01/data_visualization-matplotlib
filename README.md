@@ -3,4 +3,4 @@
 
 2: plotting from pandas, data cleaning & regular expression, Line, Scatter, Bar, histogram
 
-3. use OO method over Pyplot method, multiple graphs with customizations, and different styles
+3: use OO method over Pyplot method, multiple graphs with customizations, and different styles
